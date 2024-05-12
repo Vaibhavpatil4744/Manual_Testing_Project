@@ -19,9 +19,7 @@ Reporting: The project encourages testers to document their findings using a sta
 Target Audience:
 
 
-Drive :
-    
-                   (https://drive.google.com/drive/u/0/folders/1sfDzavwFWv_Cl0bcKl4wFko94bwZgc6L)
+
 
 
 
